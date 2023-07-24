@@ -1,4 +1,4 @@
-package initial_design
+package c2
 
 import (
 	"context"
